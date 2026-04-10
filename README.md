@@ -6,7 +6,7 @@ This project showcases a cute panda character that reacts to user interactions o
 
 ## 🌐 Live Demo
 
-Check out the live version here: [https://iam269.github.io/Interactive-Panda-Form/](https://iam269.github.io/Interactive-Panda-Form/)
+Check out the live version here: [https://itsiamdev.github.io/Interactive-Panda-Form/](https://itsiamdev.github.io/Interactive-Panda-Form/)
 
 ## ✨ Features
 
